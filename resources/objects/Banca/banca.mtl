@@ -1,0 +1,13 @@
+# Blender 4.5.2 LTS MTL File: 'Banca.blend'
+# www.blender.org
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Scratched_Painted_Metal_Sheet_vbiiegp_2K_BaseColor.jpg
+map_Ks Scratched_Painted_Metal_Sheet_vbiiegp_2K_Specular.jpg
+map_refl Scratched_Painted_Metal_Sheet_vbiiegp_2K_Metalness.jpg

@@ -1,0 +1,33 @@
+# Blender 4.5.2 LTS MTL File: 'lampara.blend'
+# www.blender.org
+
+newmtl Foco
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.801467 0.788407 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 29.692804 30.000000 1.528885
+Ni 30.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Rusty_Metal_Sheet_tjymdfmfw_2K_BaseColor.jpg
+map_Ks Rusty_Metal_Sheet_tjymdfmfw_2K_Specular.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Leather_Backside_ubordezc_2K_BaseColor.jpg
+map_Ks Leather_Backside_ubordezc_2K_Specular.jpg
+map_Bump -bm 1.000000 Leather_Backside_ubordezc_2K_Normal.jpg

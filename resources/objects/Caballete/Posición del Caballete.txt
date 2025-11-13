@@ -1,0 +1,41 @@
+Posición del Caballete
+
+Pintura
+	X:0.15
+	Y:0
+	Z:1.55
+	Inclinación Y:10°
+Base
+	X:0
+	Y:0
+	Z:0.86
+	Inclinación X:90°
+
+PataDerecha
+	X:0
+	Y:-0.5
+	Z:0
+
+PataIzquierda
+	X:0
+	Y:0.5
+	Z:0
+
+PataTrasera
+	X:0.81
+	Y:0
+	Z:0.29
+	Inclinación Y:-22°
+
+SoporteTrasero
+	X:0.34
+	Y:0
+	Z:2.2
+	Inclinación Y:10°
+
+Adorno
+	X:0.52
+	Y:0
+	Z:3.2
+	Inclinación X:90° 
+		    Y:10°

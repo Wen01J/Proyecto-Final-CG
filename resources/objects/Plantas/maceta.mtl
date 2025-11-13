@@ -1,0 +1,176 @@
+# Blender 4.3.2 MTL File: 'Indoor plant .blend'
+# www.blender.org
+
+newmtl Croton_leaf_3
+Ns 108.261902
+Ka 1.000000 1.000000 1.000000
+Ks 0.380000 0.380000 0.380000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Croton-leaf-diff-3.jpg
+map_d Croton leaf opacity.jpg
+map_Bump -bm 0.600000 Croton leaf normals 2.jpg
+
+newmtl Croton_leaf_3.001
+Ns 108.261902
+Ka 1.000000 1.000000 1.000000
+Ks 0.380000 0.380000 0.380000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Croton-leaf-diff-1.jpg
+map_d Croton leaf opacity.jpg
+map_Bump -bm 0.600000 Croton leaf normals 2.jpg
+
+newmtl Croton_leaf_3.002
+Ns 108.261902
+Ka 1.000000 1.000000 1.000000
+Ks 0.380000 0.380000 0.380000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Croton-leaf-diff-2.jpg
+map_d Croton leaf opacity.jpg
+map_Bump -bm 0.600000 Croton leaf normals 2.jpg
+
+newmtl Croton_leaf_small
+Ns 118.879555
+Ka 1.000000 1.000000 1.000000
+Ks 0.780000 0.780000 0.780000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Croton-leaf-diff-4.jpg
+map_d Croton leaf opacity.jpg
+map_Bump -bm 1.000000 Croton leaf normals 2.jpg
+
+newmtl Croton_stalk_
+Ns 195.042221
+Ka 1.000000 1.000000 1.000000
+Ks 0.780000 0.780000 0.780000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd Croton-trunk-diff-4.jpg
+
+newmtl Material_#101
+Ns 42.599747
+Ka 1.000000 1.000000 1.000000
+Ks 0.780000 0.780000 0.780000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Croton-trunk-diff-3.jpg
+
+newmtl Opuntia_microdasys
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.140000 0.140000 0.140000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Washingtonia_filifera_bark_1
+Ns 16.198347
+Ka 1.000000 1.000000 1.000000
+Ks 0.580000 0.580000 0.580000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd washingtonia filifera- bark- diffuse.jpg
+
+newmtl Washingtonia_filifera_bark_2_
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd washingtonia filifera- bark- diffuse.jpg
+map_d washingtonia filifera- opacity.jpg
+
+newmtl Washingtonia_filifera_leaf
+Ns 249.826996
+Ka 1.000000 1.000000 1.000000
+Ks 0.780000 0.780000 0.780000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd washingtonia filifera- leaf- diffuse.jpg
+
+newmtl Washingtonia_filifera_stalk
+Ns 41.768082
+Ka 1.000000 1.000000 1.000000
+Ks 0.780000 0.780000 0.780000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd washingtonia filifera- stalk- diffuse.jpg
+
+newmtl Washingtonia_filifera_trunk
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd washingtonia filifera- trunk- diffuse.jpg
+
+newmtl grey_satin.002
+Ns 195.042221
+Ka 1.000000 1.000000 1.000000
+Kd 0.039216 0.039216 0.039216
+Ks 0.580000 0.580000 0.580000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl ground_1.002
+Ns 195.042221
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd ground.jpg
+
+newmtl ground_2.002
+Ns 195.042221
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd ground.jpg
+
+newmtl needles
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.808337 0.666178
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl terrazzo.002
+Ns 525.014526
+Ka 1.000000 1.000000 1.000000
+Ks 0.620000 0.620000 0.620000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd -o -0.5 -0.5 0 -s 0.5 0.5 1 TERRAZZO-1.jpg

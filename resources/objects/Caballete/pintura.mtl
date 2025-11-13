@@ -1,0 +1,9 @@
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Wall_Painting_sf1gcdxf2_2K_BaseColor.jpg
+map_Ks Wall_Painting_sf1gcdxf2_2K_Specular.jpg
+map_d Wall_Painting_sf1gcdxf2_2K_Opacity.jpg

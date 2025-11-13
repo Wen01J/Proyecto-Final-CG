@@ -1,0 +1,78 @@
+# Blender 4.5.2 LTS MTL File: 'treepack5.blend'
+# www.blender.org
+
+newmtl Material.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd tilebark2.jpg
+map_Ks tilebark2spec.jpg
+map_Bump -bm 1.000000 tilebark2normal.jpg
+
+newmtl Material.069
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd combobranch2.png
+map_Ks combobranch2spec.png
+map_d combobranch2.png
+map_Bump -bm 1.000000 combobranch2normal.png
+
+newmtl Material.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd combobranch7.png
+map_Ks combobranch7spec.png
+map_d combobranch7.png
+map_Bump -bm 1.000000 combobranch7normal.png
+
+newmtl Material.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd combobranch2.png
+map_Ks combobranch2spec.png
+map_d combobranch2.png
+map_Bump -bm 1.000000 combobranch2normal.png
+
+newmtl Material.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd combobranch2.png
+map_Ks combobranch2spec.png
+map_d combobranch2.png
+map_Bump -bm 1.000000 combobranch2normal.png
+
+newmtl Material.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd combobranch7.png
+map_Ks combobranch7spec.png
+map_d combobranch7.png
+map_Bump -bm 1.000000 combobranch7normal.png
+
+newmtl Material.081
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd combobranch7.png
+map_d combobranch7.png

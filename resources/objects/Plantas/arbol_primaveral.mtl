@@ -1,0 +1,28 @@
+# Cleaned MTL file for ASSIMP compatibility
+# Original: GenTree-103_AE3D_03122023-F1.blend
+# Exported and cleaned to remove nonstandard PBR parameters (Pr, Pm, Ps, Pc, Pcr, aniso, anisor, map_Pr)
+
+newmtl Material-Leaves
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LEaf_Oak_Gum_AE3D_10302022-A.png
+map_d LEaf_Oak_Gum_AE3D_10302022-A.png
+
+newmtl Material.Trunk_and_Primary_Limbs
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd GenTree_2_Trunk_Limbs_AE3D_03312023-A-DIFFUSE.png
+
+newmtl Material.Twigs
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Gentree_2_Twigs_AE3D_04022023-B-DIFFUSE.jpg
+
