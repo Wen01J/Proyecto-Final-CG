@@ -1,6 +1,8 @@
 ﻿// ==================================================================================== =
 // PROYECTO: MUSEO CASA AZUL (FRIDA KAHLO)
 // ARCHIVO:  Museo_Casa_Azul.cpp
+// Realizado por: Martínez Bravo Daniela
+//				  Trujillo Salazar Wendy Jazmín
 //
 // DESCRIPCIÓN:
 // Aplicación interactiva en 3D que simula un recorrido por el Museo Casa Azul.
